@@ -1,7 +1,9 @@
-# Multi-object-Classification  
+# Multi-label-Classification  
 
-If you can't see my *Multi_label_Classification.ipynb* by some reasons, you can also see it on [this site](https://nbviewer.org/github/Deok97/MultiLabel-Classification/blob/main/Multi_label_Classification.ipynb) provided by nbviewer
+## If you can't see notebooks by some reasons(e.g. too long to lender), you can also see it on here 
+1. [Multi_label_Classification.ipynb](https://nbviewer.org/github/Deok97/MultiLabel-Classification/blob/main/Multi_label_Classification.ipynb)  
+2. [ResNet_Multi_label_Classification.ipynb](https://nbviewer.org/github/Deok97/MultiLabel-Classification/blob/main/ResNet_Multi_label_Classification.ipynb)  
 
 
-
-Licensed by Apache License 2.0
++ notebook viewer provided by nbviewer  
++ Licensed by Apache License 2.0
